@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lucky-cat-website-react/static/css/main.f4048db4.css",
+    "main.js": "/lucky-cat-website-react/static/js/main.46865f9e.js",
+    "static/js/529.ac828349.chunk.js": "/lucky-cat-website-react/static/js/529.ac828349.chunk.js",
+    "index.html": "/lucky-cat-website-react/index.html",
+    "main.f4048db4.css.map": "/lucky-cat-website-react/static/css/main.f4048db4.css.map",
+    "main.46865f9e.js.map": "/lucky-cat-website-react/static/js/main.46865f9e.js.map",
+    "529.ac828349.chunk.js.map": "/lucky-cat-website-react/static/js/529.ac828349.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4048db4.css",
+    "static/js/main.46865f9e.js"
+  ]
+}
